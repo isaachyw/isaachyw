@@ -36,11 +36,3 @@ Here are some ideas to get you started:
 </p>
 
 <hr>
-
-<details>
-  <summary>Wakatime stats since Oct 19 2022</summary>
-  <br><br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=isaachyw&layout=compact&theme=dark" />
-  </a>
-</details>
